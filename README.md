@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **vkumar9711660@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12NyqnCYCRhilqhfKDND2lafnFc4lpZWE/view?usp=sharing](https://drive.google.com/file/d/12NyqnCYCRhilqhfKDND2lafnFc4lpZWE/view?usp=sharing)
-
 - ⚡ Fun fact **Coder who code slowl they will take less time to debug. Coder who code faster they will take much time to debug.**
 
 <h3 align="left">Connect with me:</h3>
